@@ -1,0 +1,15 @@
+export const personalInfo = {
+  name: "Anuj Parashar",
+  location: "Indore, India",
+  email: "anujparashar15052005@gmail.com",
+  phone: "+91 8236033155",
+  linkedin: "https://in.linkedin.com/in/anuj-parashar-77665022b",
+  github: "https://github.com/ROBUST-Anuj",
+  leetcode: "https://leetcode.com/u/ROBUST_Anuj/",
+  title: "Software Engineer",
+  tagline: "AI/ML Engineer • Backend Developer • Full-Stack Developer",
+  bio: "I architect intelligent, production-grade applications at the intersection of AI/ML, backend engineering, and modern web technologies. From multi-tenant SaaS platforms to autonomous coding agents, I build systems designed for real-world scale and reliability.",
+  about: "I'm a B.Tech Information Technology student at SGSITS, Indore, with a strong focus on backend systems, AI/ML, and full-stack development. I've built multi-tenant SaaS platforms, AI infrastructure gateways, and autonomous software engineering tools — each tackling real engineering challenges around scalability, reliability, and intelligent automation. My experience spans Django and FastAPI backends, PostgreSQL and Redis data layers, Docker-based deployments, and machine learning pipelines with TensorFlow. I thrive at the intersection of systems engineering and applied AI, and I'm actively seeking software engineering and AI/ML opportunities where I can contribute to building impactful products.",
+  availability: "Open to Software Engineering & AI/ML Opportunities",
+  resumePath: "/resume/Anuj_Parashar_Resume.docx",
+};
