@@ -3,8 +3,7 @@
 A premium, recruiter-focused developer portfolio built with modern web technologies. Designed to showcase software engineering, AI/ML, and backend development projects.
 
 ## 🚀 Live Demo
-
-> Deploy to Vercel and add your URL here.
+https://portfolio-psi-henna-79.vercel.app/
 
 ## ✨ Features
 
